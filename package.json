@@ -1,0 +1,29 @@
+{
+  "name": "reactivejx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secabhi/reactiveJX.git"
+  },
+  "author": "Abhishek Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secabhi/reactiveJX/issues"
+  },
+  "homepage": "https://github.com/secabhi/reactiveJX#readme",
+  "dependencies": {
+    "rxjs": "^5.0.2"
+  },
+  "devDependencies": {
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.1.4",
+    "typings": "^2.1.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
